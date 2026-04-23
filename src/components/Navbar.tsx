@@ -51,7 +51,7 @@ const Navbar = () => {
               transition={{ duration: 0.4 }}
               className="flex items-center justify-center p-1"
             >
-              <img src="/.png/Group 97.png" alt="Medcy Logo" className="h-12 w-auto object-contain" />
+              <img src="/.png/medcy_main_logo.png" alt="Medcy Logo" className="h-12 w-auto object-contain" />
             </motion.div>
           </div>
 

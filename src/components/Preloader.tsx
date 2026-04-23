@@ -37,7 +37,7 @@ const Preloader = ({ onComplete }: { onComplete: () => void }) => {
           className="w-32 h-32 md:w-40 md:h-40 relative flex items-center justify-center"
         >
           <img
-            src="/.png/health tech logo (1).svg"
+            src="/.png/healthtech_logo.svg"
             alt="Medcy Logo"
             className="w-full h-full object-contain"
           />

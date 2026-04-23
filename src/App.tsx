@@ -24,7 +24,7 @@ const Footer = () => (
     <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8">
       <div className="flex items-center">
         <img
-          src="/.png/Group 97.png"
+          src="/.png/medcy_main_logo.png"
           alt="Medcy Logo"
           className="h-12 md:h-16 w-auto object-contain"
         />

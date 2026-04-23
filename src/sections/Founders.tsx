@@ -170,7 +170,7 @@ const Founders = () => {
                         viewport={{ once: true, margin: "-40px" }}
                         transition={{ duration: 0.6, ease: "easeOut" }}
                         whileHover={{ scale: 1.05, boxShadow: "0 25px 50px -12px rgba(15, 61, 50, 0.4)" }}
-                        src="/.png/Enterprise Architect & Technology Leader (1) (2).png"
+                        src="/.png/founder_card_1.png"
                         alt="Enterprise Architect & Technology Leader"
                         className="max-w-sm md:max-w-md lg:max-w-lg rounded-[24px] shadow-lg cursor-pointer"
                         onClick={() => setSelectedFounder(founders[0])}
@@ -181,7 +181,7 @@ const Founders = () => {
                         viewport={{ once: true, margin: "-40px" }}
                         transition={{ duration: 0.6, delay: 0.2, ease: "easeOut" }}
                         whileHover={{ scale: 1.05, boxShadow: "0 25px 50px -12px rgba(15, 61, 50, 0.4)" }}
-                        src="/.png/Enterprise Architect & Technology Leader (3).png"
+                        src="/.png/founder_card_2.png"
                         alt="Enterprise Architect & Technology Leader"
                         className="max-w-sm md:max-w-md lg:max-w-lg rounded-[24px] shadow-lg cursor-pointer"
                         onClick={() => setSelectedFounder(founders[1])}
@@ -218,7 +218,7 @@ const Founders = () => {
                                     transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
                                     className="mb-8 flex justify-center"
                                 >
-                                    <img src="/.png/Group 97.png" alt="Medcy Logo" className="h-10 w-auto opacity-70" />
+                                    <img src="/.png/medcy_main_logo.png" alt="Medcy Logo" className="h-10 w-auto opacity-70" />
                                 </motion.div>
 
                                 <button
